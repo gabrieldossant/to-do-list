@@ -32,7 +32,7 @@ body{
 
 #input-new-task{
     width: 20rem;
-    border-radius: 1rem;
+    border-radius: 10px;
 }
 
 #btn-new-task{
